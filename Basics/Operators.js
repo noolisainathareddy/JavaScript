@@ -5,3 +5,6 @@ var isMember = true;
 isMember = false;
 
 (isMember ? console.log("He is a member") : console.log("He is NOT a member"));
+
+
+// (condition ? isTrue : isFalse); 
