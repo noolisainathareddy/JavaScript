@@ -1,5 +1,6 @@
 body{
     align-items: center;
+    background-color: black;
 
 }
 .color-hover{
@@ -44,4 +45,20 @@ body{
     height: 20px;
     margin-right: 10px;
 }
+
+.subdiv{
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+    margin-top: 50px;
+    background-color: red;
+    text-align: center;
+}
+
+.subdiv h1{
+    padding-top: 50px;
+    font-size: 70px;
+}
+
+
 
