@@ -1,0 +1,47 @@
+body{
+    align-items: center;
+
+}
+.color-hover{
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+
+.color-red{
+    background-color: red;
+    width: 100px;
+    height: 20px;
+    margin-right: 10px;
+    
+}
+
+.color-cyan{
+    background-color: cyan;
+    width: 100px;
+    height: 20px;
+    margin-right: 10px;
+}
+.color-violet{
+    background-color: violet;
+    width: 100px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.color-orange{
+    background-color: orange;
+    width: 100px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.color-pink{
+    background-color: pink;
+    width: 100px;
+    height: 20px;
+    margin-right: 10px;
+}
+
