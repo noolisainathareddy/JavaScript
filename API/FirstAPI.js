@@ -11,5 +11,5 @@ fetch("https://api.chucknorris.io/jokes/random")
 .then((data) => {
     console.log(data.id);
 })
-.catch();
+.catch("Page not found");
 
