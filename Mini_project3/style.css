@@ -1,0 +1,47 @@
+
+.container{
+    border: 1px solid black;
+    width: 95%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hex-colors h1{
+    animation: changecolor 5s infinite alternate;
+    font-size: 2rem;
+    text-transform:uppercase;
+    
+}
+
+.hex-colors h2{
+    font-size: 2rem;
+   margin-top: 15%;
+   font-size: 2rem;
+
+    
+}
+.hex-colors{
+    align-items: center;
+    border: 2px solid black;
+    text-align: center;
+}
+
+@keyframes changecolor{
+    0%{
+        color:blueviolet;
+    }
+    20%{
+        color:aquamarine;
+    }
+    40%{
+        color:burlywood;
+    }
+    60%{
+        color:cornflowerblue;
+    }
+    80%{
+        color:crimson;  
+    }
+
+}
